@@ -1,30 +1,40 @@
 # 👋 Hi, I’m @Linnorm236
 
-## 🔎 What I Do  
-I specialize in auditing and improving WordPress sites. I run thorough quality checks to protect sites from:
+## 🛠️ My Toolbox
 
-- Vulnerable, outdated, or nulled plugins  
-- Poor coding practices that expose security risks  
+- **Languages:** HTML, CSS, JavaScript/TypeScript, PHP, Rust
+- **Frameworks:** Astro, Laravel, Tauri, Three.js
+- **Software:** Zed, Firefox, Chromium, Blender, Inkscape, GIMP, Krita
 
-My goal is to make sure developers don’t leave their clients “screwed over.”
+## 🔎 What I Do
 
-## 🎨 Front‑End Passion  
+In my main job I specialize in auditing and improving sites - usually of the WordPress variety. My goal is to make sure clients weren't screwed over by their "developers".
+
+- Spend most of my time removing/replacing vulnerable, outdated, and/or nulled plugins
+- Write custom CSS to give sites a face-lift to spare clients the egregious subscription fees of plugins/themes.
+- Or just rebuilding the entire site if it was made especially bad.
+- Also make personlised video tutorials for clients to educate them on how to use their WordPress instance.
+
+## 🎨 Front‑End Passion
+
 I love working with modern CSS (Grid, Flexbox, custom properties, container queries, etc.) and building sleek, responsive UIs. Whether it’s a brand‑new interface or a redesign of an existing open‑source project, I enjoy turning designs into clean, performant code.
 
-## 🚀 Current Learning Journey  
-- **Astro framework** – exploring its component model and server‑side rendering capabilities  
-- Advanced CSS features (container queries, subgrid, cascade layers)  
-- Modern build tooling (Vite, ESBuild)
+## 🚀 Current Learninging
 
-## 🤝 Looking to Collaborate On  
+- **Astro framework** – server‑side rendering + islands architecture  
+- **Tauri framework** - Creating Windows/Linux/Android applications
+- **Blender Software** – Creating 3D models and integrating them into websites
+- **Advanced CSS** – container queries, scroll-driven animations, functions
+
+## 🤝 Looking to Collaborate On
+
 - Open‑source UI libraries or component kits  
 - WordPress security audits & remediation projects  
-- Front‑end rewrites that leverage Astro, React, or Vue  
+- Front‑end UI rewrites that leverage Astro 
 
-If you have a project that could benefit from a security‑first, UI‑focused approach, let’s chat!
+## ⚡ Fun Fact
 
-## ⚡ Fun Fact  
-I once rescued a site that was running a **nulled premium plugin** with a known remote‑code‑execution flaw—after a quick audit and patch, the site was back online and fully secured within a day.
+I’ve basically become a CSS chameleon—by copying the styles of popular sites I got so good at it that I could trick someone into thinking they were on an official banking portal… when, in fact, they were browsing my little imitation. Turns out I’m pretty convincing when it comes to “fake‑bank‑style” layouts! 😅
 
 ---
 
