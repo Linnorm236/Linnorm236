@@ -34,7 +34,7 @@ I love working with modern CSS (Grid, Flexbox, custom properties, container quer
 
 ## ⚡ Fun Fact
 
-I’ve basically become a CSS chameleon—by copying the styles of popular sites I got so good at it that I could trick someone into thinking they were on an official banking portal… when, in fact, they were browsing my little imitation. Turns out I’m pretty convincing when it comes to “fake‑bank‑style” layouts! 😅
+I’ve basically become a CSS chameleon. By copying the styles of popular sites I got so good at it that I could trick someone into thinking they were on an official banking portal… when, in fact, they were browsing my little imitation. Turns out I’m pretty convincing when it comes to “fake‑bank‑style” layouts! 😅
 
 ---
 
