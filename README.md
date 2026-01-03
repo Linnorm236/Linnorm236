@@ -11,15 +11,15 @@
 In my main job I specialize in auditing and improving sites - usually of the WordPress variety. My goal is to make sure clients weren't screwed over by their "developers".
 
 - Spend most of my time removing/replacing vulnerable, outdated, and/or nulled plugins
-- Write custom CSS to give sites a face-lift to spare clients the egregious subscription fees of plugins/themes.
-- Or just rebuilding the entire site if it was made especially bad.
-- Also make personlised video tutorials for clients to educate them on how to use their WordPress instance.
+- Write custom CSS to give sites a face-lift to spare clients the egregious subscription fees of plugins/themes
+- Or just rebuilding the entire site if it was made especially bad by supposed developers
+- Also make personlised video tutorials for clients to educate them on how to use their WordPress instance
 
 ## 🎨 Front‑End Passion
 
 I love working with modern CSS (Grid, Flexbox, custom properties, container queries, etc.) and building sleek, responsive UIs. Whether it’s a brand‑new interface or a redesign of an existing open‑source project, I enjoy turning designs into clean, performant code.
 
-## 🚀 Current Learninging
+## 🚀 Current Learning
 
 - **Astro framework** – server‑side rendering + islands architecture  
 - **Tauri framework** - Creating Windows/Linux/Android applications
