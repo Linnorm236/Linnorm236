@@ -17,7 +17,7 @@ In my main job I specialize in auditing and improving sites - usually of the Wor
 
 ## 🎨 Front‑End Passion
 
-I love working with modern CSS (Grid, Flexbox, custom properties, container queries, scroll-driven animations.) and building sleek, responsive UIs. Whether it’s a brand‑new interface or a redesign of an existing open‑source project, I enjoy turning designs into clean, performant code.
+I love working with modern CSS (Grid, Flexbox, container queries, **scroll-driven animations**) and building sleek, responsive UIs. Whether it’s a brand‑new interface or a redesign of an existing open‑source project, I enjoy turning designs into clean, performant code.
 
 ## 🚀 Currently Learning
 
