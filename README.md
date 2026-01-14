@@ -21,8 +21,8 @@ I love working with modern CSS (Grid, Flexbox, container queries, **scroll-drive
 
 ## 🚀 Currently Learning
 
-- **Astro framework** - server‑side rendering + islands architecture  
-- **Tauri framework** - creating Windows/Linux/Android applications
+- **Astro Framework** - server‑side rendering + islands architecture  
+- **Tauri Framework** - creating Windows/Linux/Android applications
 - **Blender Software** - creating 3D models and integrating them into websites
 - **Advanced CSS** - container queries, scroll-driven animations, functions
 - **Video Editing** - animations, transition, etc. to make more "professional" video tutorials
