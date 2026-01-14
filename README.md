@@ -3,7 +3,7 @@
 ## 🛠️ My Toolbox
 
 - **Languages:** HTML, CSS, JavaScript/TypeScript, PHP, Rust
-- **Frameworks:** Astro, Laravel, Tauri, Three.js, NodeJS
+- **Frameworks:** NodeJS, Astro, Three.js, Laravel, Tauri 
 - **Software:** Zed, Firefox, Chromium, Blender, Inkscape, GIMP, Krita
 
 ## 🔎 What I Do
@@ -12,7 +12,7 @@ In my main job I specialize in auditing and improving sites - usually of the Wor
 
 - Spend most of my time removing/replacing vulnerable, outdated, and/or nulled plugins
 - Writing custom CSS to give sites a face-lift to spare clients the egregious subscription fees of plugins/themes
-- Or just rebuilding the entire site if it was made especially bad by self-proclaimed "experts"
+- Rebuilding entire site if it was made especially bad by self-proclaimed "experts"
 - Also make personlised video tutorials for clients to educate them on how to use their WordPress instance
 
 ## 🎨 Front‑End Passion
@@ -36,7 +36,7 @@ I love working with modern CSS (Grid, Flexbox, container queries, **scroll-drive
 
 ## ⚡ Fun Fact
 
-I’ve basically become a CSS chameleon. By copying the styles of popular sites I got so good at it that I could trick someone into thinking they were on the official site… when, in fact, they were browsing my little imitation. Turns out I’m pretty convincing when it comes to “fake‑bank‑style” layouts! 😅
+Learned CSS by copying the styles of popular sites. I got so good at it that I could trick someone into thinking they were on the official site… when, in fact, they were browsing my little imitation. Turns out I’m pretty convincing when it comes to banking sites! 😅
 
 ---
 
