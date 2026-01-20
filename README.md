@@ -13,7 +13,7 @@
 - Manage hosting servers and configure email services to ensure optimal performance and reliability
 - Create personalized video tutorials for clients to help them navigate their WordPress instances
 
-## Currently Learning (ʘдʘ╬)
+## Currently Learning ∠(･`_´･)
 
 - **Astro Framework** - server‑side rendering + islands architecture  
 - **Tauri Framework** - creating Windows/Linux/Android applications
