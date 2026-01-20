@@ -8,9 +8,7 @@
 
 ## 🔎 What I Do
 
-In my main job I specialize in auditing and improving sites - usually of the WordPress variety. My goal is to make sure clients weren't screwed over by their "developers".
-
-- Spend most of my time removing/replacing vulnerable, outdated, and/or nulled plugins
+- Spend most of my time auditing and improving sites
 - Writing custom CSS to give sites a face-lift to spare clients the egregious subscription fees of plugins/themes
 - Rebuilding entire site if it was made especially bad by self-proclaimed "experts"
 - Also make personlised video tutorials for clients to educate them on how to use their WordPress instance
