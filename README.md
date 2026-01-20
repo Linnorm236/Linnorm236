@@ -3,7 +3,7 @@
 ## My Toolbox ᕦ(ò_óˇ)ᕤ
 
 - **Languages:** HTML, CSS, JavaScript/TypeScript, PHP, Rust
-- **Frameworks:** NodeJS, Astro, Three.js, Laravel, Tauri 
+- **Frameworks:** Astro, Three.js, Node.js, Laravel, Tauri 
 - **Software:** Zed, Firefox, Chromium, Blender, Inkscape, GIMP, Krita
 
 ## What I Do (╭ರ_•́)
