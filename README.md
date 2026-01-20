@@ -34,7 +34,7 @@ I love working with modern CSS (Grid, Flexbox, container queries, **scroll-drive
 
 ## ⚡ Fun Fact
 
-Learned CSS by copying the styles of popular sites. I got so good at it that I could trick someone into thinking they were on the official site… when, in fact, they were browsing my little imitation. Turns out I’m pretty convincing when it comes to banking sites! 😅
+Learned CSS by copying the styles of popular sites. I got so good at it that I could trick someone into thinking they were on the official site… when, in fact, they were browsing my little imitation. Turns out I’m pretty convincing when it comes to banking sites! `( ͡° ͜ʖ ͡°)`
 
 ---
 
