@@ -26,12 +26,12 @@
 
 - Open-source UI libraries or component kits that enhance user experience and accessibility
 - WordPress security audits and remediation projects to improve site safety and performance
-- Redesigning and/or creating websites for open-source projects to showcase their initiatives
+- Creating/redesigning websites for free open-source and non-profit initiatives to showcase their missions
 - Hosting fun workshops for hands-on learning experiences, where we can collaboratively figure things out
 
-## Fun Fact ㇏(•̀ᵥᵥ•́)ノ
+## Fun Fact ԅ(≖‿≖ԅ)
 
-Learned CSS by copying the styles of popular sites. I got so good at it that I could trick someone into thinking they were on the official site… when, in fact, they were browsing my little imitation. Turns out I’m pretty convincing when it comes to banking sites! **ԅ(≖‿≖ԅ)**
+Learned CSS by copying the styles of popular sites. I got so good at it that I could trick someone into thinking they were on the official site… when, in fact, they were browsing my little imitation. Turns out I’m pretty convincing when it comes to banking sites!
 
 ---
 
