@@ -1,6 +1,6 @@
 # Hi, I’m Linnorm (⌐■_■)
 
-## My Toolbox ᕙ(⇀‸↼‶)ᕗ
+## My Toolbox ᕦ(ò_óˇ)ᕤ
 
 - **Languages:** HTML, CSS, JavaScript/TypeScript, PHP, Rust
 - **Frameworks:** NodeJS, Astro, Three.js, Laravel, Tauri 
