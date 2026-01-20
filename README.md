@@ -1,4 +1,4 @@
-# Hi, I’m Linnorm (･_├┬┴
+# Hi, I’m Linnorm ☜(ﾟヮﾟ)
 
 ## My Toolbox ᕙ(`▽´)ᕗ
 
