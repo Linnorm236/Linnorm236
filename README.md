@@ -22,7 +22,7 @@
 - **Video Editing** - animations, transition, etc. to make more "professional" video tutorials
 - **Caddy (Server)** - setting up my own hosting enviroment for local projects
 
-## Looking to Collaborate On \(˚☐˚”)/
+## Looking to Collaborate On  \(˚☐˚”)/
 
 - Open‑source UI libraries or component kits  
 - WordPress security audits & remediation projects  
