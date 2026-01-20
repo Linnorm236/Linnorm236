@@ -31,7 +31,7 @@
 
 ## Fun Fact ԅ(≖‿≖ԅ)
 
-Learned CSS by making imitatations of popular sites without inspecting the original code. Got easy to trick people into thinking they were on official site when, in fact, they were browsing the imitations. Turns out I’m pretty convincing when it comes to banking sites... シ
+Started learning CSS by making imitations of popular sites without inspecting the original code. Got easy to trick people into thinking they were on official sites when, in fact, they were browsing my imitations. Turns out I’m pretty convincing when it comes to banking sites... シ
 
 ---
 
