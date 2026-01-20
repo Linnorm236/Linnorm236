@@ -8,10 +8,10 @@
 
 ## What I Do (╭ರ_•́)
 
-- Spend most of my time auditing and improving sites
-- Writing custom CSS to give sites a face-lift to spare clients the egregious subscription fees of plugins/themes
-- Rebuilding entire site if it was made especially bad by self-proclaimed "experts"
-- Also make personlised video tutorials for clients to educate them on how to use their WordPress instance
+- Spend most of my time auditing, improving, and rebuilding sites of self-proclaimed "experts"
+- Specialize in writing custom CSS for styling and animations, making websites feel more alive
+- Manage hosting servers and configure email services to ensure optimal performance and reliability
+- Create personalized video tutorials for clients to help them navigate their WordPress instances
 
 ## Currently Learning ＼(-_- )
 
@@ -24,9 +24,10 @@
 
 ## Looking to Collaborate On ( ^o^)ノ
 
-- Open‑source UI libraries or component kits  
-- WordPress security audits & remediation projects  
-- Front‑end UI rewrites that leverage Astro 
+- Open-source UI libraries or component kits that enhance user experience and accessibility
+- WordPress security audits and remediation projects to improve site safety and performance
+- Redesigning and/or creating websites for open-source projects to showcase their initiatives
+- Hosting fun workshops for hands-on learning experiences, where we can collaboratively figure things out
 
 ## Fun Fact (⌐⊙_⊙)
 
