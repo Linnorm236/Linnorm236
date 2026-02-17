@@ -19,7 +19,7 @@
 - **Tauri Framework** - creating Windows/Linux/Android applications
 - **Blender Software** - creating 3D models and integrating them into websites
 - **Advanced CSS** - container queries, scroll-driven animations, functions
-- **Video Editing** - animations, transition, etc. to make more "professional" video tutorials
+- **Video Editing** - animations, transition, etc. for more "professional" video tutorials
 - **Caddy (Server)** - setting up my own hosting enviroment for local projects
 
 ## Collab Interests ヘ(°￢°)ノ
