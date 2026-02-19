@@ -1,4 +1,4 @@
-# Hi, I’m Linnorm (⌐■_■)
+# Hi, I’m Stefan (⌐■_■)
 
 ## My Toolbox ᕦ(ò_óˇ)ᕤ
 
