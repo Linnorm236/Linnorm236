@@ -4,7 +4,7 @@
 
 - **Languages:** HTML, CSS, JavaScript/TypeScript, PHP, Rust
 - **Frameworks:** Astro, Three.js, Node.js, Laravel, Tauri 
-- **Software:** Zed, Firefox, Chromium, Blender, Inkscape, GIMP, Krita
+- **Software:** Zed, Firefox, Chromium (Ungoogled), Blender, Inkscape, GIMP, Krita
 
 ## What I Do (╭ರ_•́)
 
